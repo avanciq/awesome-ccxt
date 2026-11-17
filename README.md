@@ -90,6 +90,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 
 ## AI
 
+- [AIKIT](https://tradingcheckup.com/aikit/) - Sourced, dated exchange rules and ccxt bot code checks for AI assistants, as a free-tier API and MCP server.
 - [Taurus](https://github.com/OptimalPandemic/taurus) - A cryptocurrency trading platform using deep reinforcement learning.
 
 ## Utils
